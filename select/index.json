@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワン・イン・ア・ミリオン",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T14:23:04.182442Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONE IN A MILLION",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_ONE_IN_A_MILLION_Ne-Yo.txt"
+    }
+  ]
+}
